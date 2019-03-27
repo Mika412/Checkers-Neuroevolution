@@ -2,10 +2,6 @@ package checkers;
 
 import java.util.Vector;
 
-/**
- *
- * @author P.F.
- */
 public class Random {
 
     White white;
@@ -19,7 +15,6 @@ public class Random {
                 && move.finalCol == move2.finalCol)?true:false;
     }
 
-    //ADDED!!! TODO: adicionar ao relatorio
     public static String moveToString(Move move){
         return "(" + move.initialRow + "," + move.initialCol + ")->(" + move.finalRow + "," + move.finalCol + ")";
     }

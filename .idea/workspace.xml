@@ -12,21 +12,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/checkers/HeuristicRobot.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/neunet/LearnNeural.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="806">
+            <state relative-caret-position="1717">
               <caret line="103" column="35" selection-start-line="103" selection-start-column="35" selection-end-line="103" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -36,37 +24,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/checkers/ConsoleColors.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/checkers/Move.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="23" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/checkers/Board.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="123" column="22" selection-end-line="482" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/checkers/White.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="76" />
+            <state relative-caret-position="102">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neunet/HeuristicEvaluation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3196">
+              <caret line="191" column="9" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -81,15 +51,33 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/checkers/Oracle.java">
+        <entry file="file://$PROJECT_DIR$/src/checkers/Random.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="21" />
+            <state relative-caret-position="-136">
+              <caret line="16" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/checkers/Robot.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/neunet/LearnNeuralNvsN.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2482">
+              <caret line="199" column="26" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/neunet/NeuralNetwork.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2176">
@@ -99,10 +87,19 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/neunet/LearnNeuralNvsN.java">
+        <entry file="file://$PROJECT_DIR$/src/neunet/Utils.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3298">
-              <caret line="199" column="26" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
+            <state relative-caret-position="68">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/checkers/Owner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -167,8 +164,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/dategen/HeuristicMain.java" />
-        <option value="$PROJECT_DIR$/src/checkers/Owner.java" />
         <option value="$PROJECT_DIR$/src/checkers/ConsoleColors.java" />
         <option value="$PROJECT_DIR$/src/checkers/Game.java" />
         <option value="$PROJECT_DIR$/src/checkers/NeuralNetAgent.java" />
@@ -191,7 +186,6 @@
         <option value="$PROJECT_DIR$/src/neunet/BP.java" />
         <option value="$PROJECT_DIR$/src/neunet/FitnessInterface.java" />
         <option value="$PROJECT_DIR$/src/neunet/trainers/GeneticAlgorithmScoreAttack.java" />
-        <option value="$PROJECT_DIR$/src/checkers/White.java" />
         <option value="$PROJECT_DIR$/src/neunet/NeuralNetwork2.java" />
         <option value="$PROJECT_DIR$/src/neunet/GeneticAlgorithm2.java" />
         <option value="$PROJECT_DIR$/src/neunet/GeneticAlgorithmScoreExpand.java" />
@@ -199,12 +193,8 @@
         <option value="$PROJECT_DIR$/src/neunet/CheckersGeneticTrainer.java" />
         <option value="$PROJECT_DIR$/src/neunet/GeneticAlgorithm.java" />
         <option value="$PROJECT_DIR$/src/neunet/Main.java" />
-        <option value="$PROJECT_DIR$/src/checkers/Random.java" />
-        <option value="$PROJECT_DIR$/src/checkers/Move.java" />
-        <option value="$PROJECT_DIR$/src/checkers/Black.java" />
         <option value="$PROJECT_DIR$/src/checkers/Board.java" />
         <option value="$PROJECT_DIR$/src/neunet/LearnNeural2.java" />
-        <option value="$PROJECT_DIR$/src/checkers/Robot.java" />
         <option value="$PROJECT_DIR$/src/dategen/SaveLoad.java" />
         <option value="$PROJECT_DIR$/src/neunet/NeuralNet2.java" />
         <option value="$PROJECT_DIR$/src/neunet/NeuralNet3.java" />
@@ -218,6 +208,13 @@
         <option value="$PROJECT_DIR$/src/neunet/LearnNeural.java" />
         <option value="$PROJECT_DIR$/src/neunet/NeuralNetwork.java" />
         <option value="$PROJECT_DIR$/src/checkers/Oracle.java" />
+        <option value="$PROJECT_DIR$/src/checkers/Black.java" />
+        <option value="$PROJECT_DIR$/src/checkers/CellEntry.java" />
+        <option value="$PROJECT_DIR$/src/checkers/Move.java" />
+        <option value="$PROJECT_DIR$/src/checkers/Owner.java" />
+        <option value="$PROJECT_DIR$/src/checkers/Random.java" />
+        <option value="$PROJECT_DIR$/src/checkers/Robot.java" />
+        <option value="$PROJECT_DIR$/src/checkers/White.java" />
       </list>
     </option>
   </component>
@@ -238,8 +235,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -262,12 +257,21 @@
               <item name="AI_Checkers_Neural" type="b2602c69:ProjectViewProjectNode" />
               <item name="AI_Checkers_Neural" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="checkers" type="462c0819:PsiDirectoryNode" />
+              <item name="Enumerations.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="AI_Checkers_Neural" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AI_Checkers_Neural" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="neunet" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -437,11 +441,12 @@
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Run" order="4" weight="0.1641791" />
+      <window_info anchor="right" id="Run" order="4" weight="0.50586355" />
       <window_info anchor="right" id="Event Log" order="5" side_tool="true" weight="0.5557333" />
       <window_info anchor="right" id="Palette" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="7" />
@@ -473,20 +478,10 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
   <component name="editorHistoryManager">
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/jre/lib/rt.jar!/sun/misc/FloatingDecimal.class" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Arrays.java" />
     <entry file="file://$PROJECT_DIR$/src/checkers/ReactiveAgent.java" />
-    <entry file="file://$PROJECT_DIR$/src/checkers/Enumerations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/neunet/TrainNeuralNet.java" />
     <entry file="file://$PROJECT_DIR$/src/neunet/Check2.java" />
     <entry file="file://$PROJECT_DIR$/src/neunet/Check.java" />
@@ -507,29 +502,8 @@
     <entry file="file://$PROJECT_DIR$/src/neunet/CheckersGeneticTrainer.java" />
     <entry file="file://$PROJECT_DIR$/src/neunet/trainers/GeneticAlgorithmScoreExpand.java" />
     <entry file="file://$PROJECT_DIR$/src/neunet/FitnessInterface.java" />
-    <entry file="file://$PROJECT_DIR$/src/checkers/Black.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3266">
-          <caret line="313" column="1" selection-start-line="313" selection-start-column="1" selection-end-line="313" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/checkers/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="78" column="89" selection-start-line="78" selection-start-column="89" selection-end-line="78" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/neunet/Main.java" />
     <entry file="file://$PROJECT_DIR$/src/dategen/GenData.java" />
-    <entry file="file://$PROJECT_DIR$/src/checkers/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6463">
-          <caret line="281" column="1" selection-start-line="281" selection-start-column="1" selection-end-line="281" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/PrintStream.java" />
     <entry file="file://$PROJECT_DIR$/src/neunet/NeuralNet2.java" />
     <entry file="file://$PROJECT_DIR$/src/dategen/SaveLoad.java" />
@@ -537,17 +511,27 @@
     <entry file="file://$PROJECT_DIR$/src/checkers/HeuristicRobotNeural.java" />
     <entry file="file://$PROJECT_DIR$/src/neunet/SaveLoad.java" />
     <entry file="file://$PROJECT_DIR$/src/neunet/NeuralNet3.java" />
-    <entry file="file://$PROJECT_DIR$/src/neunet/Utils.java">
+    <entry file="file://$PROJECT_DIR$/src/checkers/Black.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1557">
-          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#0#10172#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/neunet/HeuristicEvaluation.java">
+    <entry file="file://$PROJECT_DIR$/src/checkers/Board.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3196">
-          <caret line="191" column="9" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="9" />
+        <state relative-caret-position="85">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/CellEntry.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
@@ -558,52 +542,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/checkers/Move.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="23" column="5" selection-start-line="18" selection-start-column="4" selection-end-line="23" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/checkers/Board.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="123" column="22" selection-end-line="482" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/checkers/Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/checkers/Oracle.java">
+    <entry file="file://$PROJECT_DIR$/src/checkers/Enumerations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/neunet/NeuralNetwork.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2176">
-          <caret line="128" column="67" selection-start-line="128" selection-start-column="67" selection-end-line="128" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/neunet/LearnNeuralNvsN.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3298">
-          <caret line="199" column="26" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/checkers/White.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="18" column="24" selection-start-line="18" selection-start-column="24" selection-end-line="18" selection-end-column="76" />
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
         </state>
       </provider>
     </entry>
@@ -617,13 +559,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/Move.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/Oracle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/Owner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-136">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/Robot.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/checkers/White.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neunet/HeuristicEvaluation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3196">
+          <caret line="191" column="9" selection-start-line="191" selection-start-column="9" selection-end-line="191" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/neunet/LearnNeural.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="806">
+        <state relative-caret-position="1717">
           <caret line="103" column="35" selection-start-line="103" selection-start-column="35" selection-end-line="103" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neunet/LearnNeuralNvsN.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2482">
+          <caret line="199" column="26" selection-start-line="199" selection-start-column="26" selection-end-line="199" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neunet/Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/neunet/NeuralNetwork.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2176">
+          <caret line="128" column="67" selection-start-line="128" selection-start-column="67" selection-end-line="128" selection-end-column="67" />
         </state>
       </provider>
     </entry>

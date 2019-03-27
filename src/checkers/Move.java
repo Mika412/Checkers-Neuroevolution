@@ -6,10 +6,6 @@ package checkers;
 
 import java.util.Vector;
 
-/**
- *
- * @author ASHISH
- */
 public class Move {
     int initialRow;
     int initialCol;

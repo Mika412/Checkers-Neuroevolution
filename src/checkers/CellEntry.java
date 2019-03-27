@@ -1,9 +1,5 @@
 package checkers;
 
-/**
- *
- * @author ASHISH
- */
 public enum CellEntry{
     inValid,
     empty,

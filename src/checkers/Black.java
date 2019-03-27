@@ -6,10 +6,6 @@ package checkers;
 
 import java.util.Vector;
 
-/**
- *
- * @author ASHISH
- */
 public class Black {
 
     public  Owner owner;

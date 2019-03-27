@@ -1,10 +1,7 @@
 
 package checkers;
 import java.util.Vector;
-/**
- *
- * @author apurv
- */
+
 public class Robot {
 
     Oracle oracle;

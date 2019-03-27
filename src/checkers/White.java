@@ -7,10 +7,7 @@ package checkers;
 
 import java.util.Vector;
 
-/**
- *
- * @author ASHISH
- */
+
 public class White
 {   
     public static Owner owner;
